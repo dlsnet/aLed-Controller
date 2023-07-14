@@ -15,4 +15,4 @@ aLed Controller is an analog leds controller for the smart home. It was designed
 - [Optional] I2C bus output for plugging an external sensor.
 - [Optional] Connector for ePaper display.
 
-![aLed Controller](resources/images/PCB-Front.png)
+![aLed Controller](resources/Images/PCB-Front.png)
