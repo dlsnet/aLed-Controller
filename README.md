@@ -25,6 +25,6 @@ If you want to support the project, you can order PCB manufacturing and/or assem
 
 - [PCBWay Order](https://www.pcbway.com/project/shareproject/aLed_Controller_v2_4e3c079f.html) - they do quite necelly. Please keep in mind that stencil will be very handy. 
 
-##Enclosure
+## Enclosure
 
 3D printed enclosure is available for the PCB. STL files can be found [here](https://github.com/dlsnet/aLed-Controller/tree/main/resources/Case%20STL)
