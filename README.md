@@ -28,3 +28,5 @@ If you want to support the project, you can order PCB manufacturing and/or assem
 ## Enclosure
 
 3D printed enclosure is available for the PCB. STL files can be found [here](https://github.com/dlsnet/aLed-Controller/tree/main/resources/Case%20STL)
+
+![aLed Controller](resources/Images/PCB-in-case.png)
