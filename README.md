@@ -1,10 +1,5 @@
 # aLed Controller
 
-<p align="center">
-<a href="https://www.pcbway.com/project/shareproject/aLed_Controller_v2_4e3c079f.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
-  
-</p>
-
 aLed Controller is an analog leds controller for the smart home. It was designed to run with Home Assistant using ESPHome and features:
 
 -  Six analog channels. (Can run a single CCTRGB or RGBW strip, up to two RGB strips, up to three CCT strips, or up to six single color strips with a high current and high PWM frequencies).
@@ -28,7 +23,12 @@ The controller works with 5-24v input. Positive output lines are protected by a 
 
 If you want to support the project, you can order PCB manufacturing and/or assembly on PCBWay
 
-- [PCBWay Order](https://www.pcbway.com/project/shareproject/aLed_Controller_v2_4e3c079f.html) - they do quite necelly. Please keep in mind that stencil will be very handy. 
+- [PCBWay Order](https://www.pcbway.com/project/shareproject/aLed_Controller_v2_4e3c079f.html) - they do quite necelly. Please keep in mind that stencil will be very handy.
+
+<p align="center">
+<a href="https://www.pcbway.com/project/shareproject/aLed_Controller_v2_4e3c079f.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+  
+</p>
 
 ## Enclosure
 
